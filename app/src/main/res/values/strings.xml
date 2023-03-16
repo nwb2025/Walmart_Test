@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="main_title">Countries</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="region">Region</string>
+    <string name="code">Code</string>
+    <string name="capital">Capital</string>
+    <string name="country_name">Country name</string>
+</resources>
